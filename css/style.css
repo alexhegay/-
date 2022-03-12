@@ -1,0 +1,38 @@
+h1{
+   color: gray; 
+}
+.blog{
+    background: rgb(57, 107, 216);
+    border:3px darkblue solid;/*делает бортики (тольшина, цвет, стиль видимый или прозрачный)*/
+    padding:0 0 0 30px;/*отсупы внутри блока*/
+}
+.blog h2{
+    color: white;
+}
+li{
+    color: white;
+}
+a{
+    color: white;
+    text-decoration:none;/*убирает линии*/
+    text-transform: uppercase;/*деале все буквы БОЛЬШИМИ или ЗАГЛАВНЫМИ*/
+}
+ol{
+    list-style-type: none;/*убирает маркера(цыфры или точки)*/
+}
+img{
+    width: 300px;/*ширина*/
+    border-radius: 30px;/*скругляет углы*/
+}
+.text-red{
+    color:red;
+}
+p{
+    font-style: italic;/*делает буквы под наклоном (курсив)*/
+}
+li{
+    color: black;
+}
+ul{
+    list-style-type: square;
+}
